@@ -1,0 +1,14 @@
+{
+  "pizzas": [
+    {
+      "title": "Mario Special",
+      "description": "An extra cheesy pizza on a thin and crispy base, loaded with olives and mushrooms.",
+      "toppings": [
+        "mushrooms",
+        "olives"
+      ],
+      "price": 12,
+      "id": "1"
+    }
+  ]
+}

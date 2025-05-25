@@ -1,0 +1,16 @@
+{
+  "name": "typescript-masterclass-lesson-32",
+  "version": "1.0.0",
+  "source": "src/index.html",
+  "devDependencies": {
+    "parcel": "^2.15.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
